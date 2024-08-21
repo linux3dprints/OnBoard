@@ -1,13 +1,13 @@
 ---
 name: "FIRST LAST"
-slack_handle: "@SLACK HANDLE"
-github_handle: "@GITHUB HANDLE"
-tutorial: # Link to the tutorial if you used one
+slack_handle: "@Sneaky Lizard"
+github_handle: "@linux3dprints"
+tutorial: # https://jams.hackclub.com/batch/usb-hub
 ---
 
-# YOUR PROJECT NAME
+# usb-hub
 
-<!-- Describe your board in 2-3 sentences. What are you making? What will it do? -->
+<!-- usb hub 2 port -->
 
 <!-- How much is it going to cost? -->
 
