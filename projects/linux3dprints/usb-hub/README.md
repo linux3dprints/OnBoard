@@ -2,13 +2,11 @@
 name: "Sneaky Lizard"
 slack_handle: "@Sneaky Lizard"
 github_handle: "@linux3dprints"
-tutorial: # Link to the tutorial if you used one
+tutorial: https://jams.hackclub.com/batch/usb-hub
 ---
 
-# YOUR PROJECT NAME
+# USB hub
 
 <!-- 2 port usb hub -->
 
 <!-- $?? -->
-
-<!--(https://jams.hackclub.com/batch/usb-hub)-->
