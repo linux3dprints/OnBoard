@@ -9,4 +9,4 @@ tutorial: https://jams.hackclub.com/batch/usb-hub
 
 <!-- 2 port usb hub -->
 
-<!-- $?? -->
+<!-- ~$40 -->
